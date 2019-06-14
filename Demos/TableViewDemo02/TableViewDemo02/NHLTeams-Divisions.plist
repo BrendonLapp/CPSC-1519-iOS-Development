@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Central Division</key>
+	<array>
+		<string>Winnipeg Jets</string>
+		<string>Chicago Blackhawks</string>
+		<string>Colorado Avalanche</string>
+		<string>St Louis Blues</string>
+		<string>Nashville Predators</string>
+		<string>Dallas Stars</string>
+		<string>Minnesota Wild</string>
+	</array>
+	<key>Metropolitan Division</key>
+	<array>
+		<string>Pittsburgh Penguins</string>
+		<string>Washington Capitals</string>
+		<string>Philadelphia Flyers</string>
+		<string>Columbus Blue Jackets</string>
+		<string>New York Rangers</string>
+		<string>New York Islanders</string>
+		<string>New Jersey Devils</string>
+		<string>Carolina Hurricanes</string>
+	</array>
+	<key>Pacfific Division</key>
+	<array>
+		<string>Anaheim Ducks</string>
+		<string>Los Angelas Kings</string>
+		<string>Arizone Coyotes</string>
+		<string>San Jose Sharks</string>
+		<string>Vancouver Canucks</string>
+		<string>Vegas Golden Knights</string>
+		<string>Calgary Flames</string>
+		<string>Edmonton Oilers</string>
+	</array>
+	<key>Atlantic Division</key>
+	<array>
+		<string>Ottawa Senators</string>
+		<string>Detroit Red Wings</string>
+		<string>Florida Panthers</string>
+		<string>Buffalo Sabres</string>
+		<string>Montreal Candiens</string>
+		<string>Toronto Maple Leafs</string>
+		<string>Boston Bruins</string>
+		<string>Tampa Bay Lightning</string>
+	</array>
+</dict>
+</plist>

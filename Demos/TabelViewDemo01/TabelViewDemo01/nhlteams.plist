@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Edmonton Oilers</string>
+	<string>Calgary Flames</string>
+	<string>Vanvouver Canucks</string>
+	<string>Winnepeg Jets</string>
+	<string>Ottawa Senators</string>
+	<string>Toronto Maple Leafs</string>
+	<string>Quebec Nordiques</string>
+	<string>Montreal Canadiens</string>
+</array>
+</plist>
